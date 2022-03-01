@@ -6,11 +6,13 @@
     margin-bottom: 10px;
 }
 
-
-
+.container-padding{
+    padding-right: 150px;
+    padding-left: 150px;
+}
 
 .section-padding{
-    padding-top: 50px;
+    padding-top: 110px;
     padding-bottom: 30px;
 }
 
@@ -22,3 +24,10 @@
     background-image: url(https://miro.medium.com/max/698/4*BIK9VGjeCj2TaTDw4id2nA.png);
 }
 
+.main-text{
+    
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 400;
+    letter-spacing: -0.05em;
+    line-height: 74px;
+}
