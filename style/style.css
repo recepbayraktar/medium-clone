@@ -31,3 +31,7 @@
     letter-spacing: -0.05em;
     line-height: 74px;
 }
+
+.sticky-offset {
+    top: 100px;
+}
